@@ -2,12 +2,12 @@
 
 > Mac 下微信 / 企业微信多开工具，无需破解、不改文件，利用 macOS 沙盒能力实现独立实例。
 
-[![最新版本](https://img.shields.io/badge/版本-v1.6.1-blue)](https://github.com/hnan/mac-multi-instance/releases)
+[![最新版本](https://img.shields.io/badge/版本-v1.6.2-blue)](https://github.com/hnan/mac-multi-instance/releases)
 [![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/hnan/mac-multi-instance)
 [![免费使用](https://img.shields.io/badge/价格-免费-orange)](https://heiweixin.com)
-[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg)
+[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.2.dmg)
 
-[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg) · [问题反馈](https://github.com/hnan/mac-multi-instance/issues)
+[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.2.dmg) · [问题反馈](https://github.com/hnan/mac-multi-instance/issues)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-1. [下载安装包](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg)，拖入应用程序文件夹
+1. [下载安装包](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.2.dmg)，拖入应用程序文件夹
 2. 打开多开助手，从列表中选择要多开的应用（微信 / 企业微信）
 3. 点击「启动分身」，在新实例中登录另一个账号
 
@@ -39,6 +39,11 @@
 | 安装包大小 | 约 6MB |
 
 ## 更新日志
+
+**v1.6.2** · 2026-05-11
+- UI 全面优化，贴合 macOS 原生风格
+- 分身/原版应用列表显示运行状态（运行中 / 点击启动）
+- 分身已运行时点击可恢复窗口
 
 **v1.6.1** · 2026-05-10
 - 支持用户分享推荐码，好东西大家一起用
