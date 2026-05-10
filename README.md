@@ -2,12 +2,12 @@
 
 > Mac 下微信 / 企业微信多开工具，无需破解、不改文件，利用 macOS 沙盒能力实现独立实例。
 
-[![最新版本](https://img.shields.io/badge/版本-v1.5.0-blue)](https://github.com/YOUR_USERNAME/mac-multi-instance/releases)
-[![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/YOUR_USERNAME/mac-multi-instance)
+[![最新版本](https://img.shields.io/badge/版本-v1.6.1-blue)](https://github.com/hnan/mac-multi-instance/releases)
+[![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/hnan/mac-multi-instance)
 [![免费使用](https://img.shields.io/badge/价格-免费-orange)](https://heiweixin.com)
-[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com/releases/多开助手_v1.5.0.dmg)
+[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg)
 
-[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com/releases/多开助手_v1.5.0.dmg) · [问题反馈](https://github.com/YOUR_USERNAME/mac-multi-instance/issues)
+[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg) · [问题反馈](https://github.com/hnan/mac-multi-instance/issues)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-1. [下载安装包](https://www.heiweixin.com/releases/多开助手_v1.5.0.dmg)，拖入应用程序文件夹
+1. [下载安装包](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.1.dmg)，拖入应用程序文件夹
 2. 打开多开助手，从列表中选择要多开的应用（微信 / 企业微信）
 3. 点击「启动分身」，在新实例中登录另一个账号
 
@@ -40,6 +40,14 @@
 
 ## 更新日志
 
+**v1.6.1** · 2026-05-10
+- 支持用户分享推荐码，好东西大家一起用
+- 解决修复和删除分身时有时报错的问题
+
+**v1.5.2** · 2026-05-07
+- 新增设备管理页面
+- 优化界面布局
+
 **v1.5.0** · 2026-04-03
 - 修复企业微信分身升级后闪退问题
 
@@ -49,10 +57,7 @@
 **v1.4.0** · 2026-03-12
 - 修复微信升级后分身 App 打开异常的问题
 
-**v1.3.2** · 2026-03-01
-- UI 优化、性能优化
-
-[查看完整更新日志 →](https://heiweixin.com/#changelog)
+[查看完整更新日志 →](https://heiweixin.com/changelog)
 
 ## 常见问题
 
@@ -86,4 +91,4 @@
 
 ---
 
-© 2026 多开助手. 有问题欢迎提 [Issue](https://github.com/YOUR_USERNAME/mac-multi-instance/issues)。
+© 2026 多开助手. 有问题欢迎提 [Issue](https://github.com/hnan/mac-multi-instance/issues)。
