@@ -1,13 +1,13 @@
-# 多开助手 · mac-multi-instance
+# 多开助手 — Mac 微信多开 / 微信双开工具
 
-> Mac 下微信 / 企业微信多开工具，无需破解、不改文件，利用 macOS 沙盒能力实现独立实例。
+> Mac 下微信、企业微信多开工具。无需破解、不改文件，利用 macOS 原生沙盒能力实现独立实例。
 
-[![最新版本](https://img.shields.io/badge/版本-v1.6.5-blue)](https://github.com/hnan/mac-multi-instance/releases)
-[![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/hnan/mac-multi-instance)
+[![最新版本](https://img.shields.io/badge/版本-v1.7.0-blue)](https://github.com/hnan/wechat-multi/releases)
+[![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/hnan/wechat-multi)
 [![免费使用](https://img.shields.io/badge/价格-免费-orange)](https://heiweixin.com)
-[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.5.dmg)
+[![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com)
 
-[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.5.dmg) · [问题反馈](https://github.com/hnan/mac-multi-instance/issues)
+[官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com) · [问题反馈](https://github.com/hnan/wechat-multi/issues)
 
 ---
 
@@ -15,7 +15,7 @@
 
 **多开助手**利用 macOS 原生沙盒能力，让你在 Mac 上同时运行多个微信、企业微信实例，无需破解 App、无需修改任何文件，微信或系统升级后依然可用。
 
-适合需要同时管理多个账号的用户：工作账号 + 个人账号，或多个业务微信号。
+无论你要的是微信多开、微信双开，还是给工作号单独开一个微信分身，装上就能用。适合需要同时管理多个账号的用户：工作账号 + 个人账号，或多个业务微信号。
 
 ## 功能特性
 
@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-1. [下载安装包](https://www.heiweixin.com/releases/%E5%A4%9A%E5%BC%80%E5%8A%A9%E6%89%8B_v1.6.5.dmg)，拖入应用程序文件夹
+1. [下载安装包](https://www.heiweixin.com)，拖入应用程序文件夹
 2. 打开多开助手，从列表中选择要多开的应用（微信 / 企业微信）
 3. 点击「启动分身」，在新实例中登录另一个账号
 
@@ -36,44 +36,20 @@
 |------|------|
 | 系统 | macOS 12.0 及以上 |
 | 支持应用 | 微信（4.0+）、企业微信 |
+| 芯片 | Intel 与 Apple Silicon 均支持 |
 | 安装包大小 | 约 6MB |
 
 ## 更新日志
 
-**v1.6.5** · 2026-05-16
-- 修复特定情况下无法创建分身的问题
-- 修复分身修复时可能报错的问题
-- 优化 UI 显示
+**v1.7.0** · 2026-09-17
+- 修复微信 4.1.15 下新建分身无法打开的问题
+- 升级后，列表中标记为「应用损坏」的旧分身点击「修复」即可恢复使用
 
-**v1.6.4** · 2026-05-11
-- 修复深色模式下部分区域颜色显示异常的问题
-- 修复部分用户安装了微信但不显示图标的问题
-- 修复创建分身失败时无错误提示的问题
+**v1.6.9** · 2026-08-14
+- 优化网络连接稳定性
 
-**v1.6.3** · 2026-05-11
-- 修复有时候无法创建分身的 bug
-
-**v1.6.2** · 2026-05-11
-- UI 全面优化，贴合 macOS 原生风格
-- 分身/原版应用列表显示运行状态（运行中 / 点击启动）
-- 分身已运行时点击可恢复窗口
-
-**v1.6.1** · 2026-05-10
-- 支持用户分享推荐码，好东西大家一起用
-- 解决修复和删除分身时有时报错的问题
-
-**v1.5.2** · 2026-05-07
-- 新增设备管理页面
-- 优化界面布局
-
-**v1.5.0** · 2026-04-03
-- 修复企业微信分身升级后闪退问题
-
-**v1.4.1** · 2026-04-02
-- 修复分身微信无法使用语音对话的问题
-
-**v1.4.0** · 2026-03-12
-- 修复微信升级后分身 App 打开异常的问题
+**v1.6.8** · 2026-05-24
+- 优化网络不好时的稳定性
 
 [查看完整更新日志 →](https://heiweixin.com/changelog)
 
@@ -83,7 +59,7 @@
 多开助手使用 macOS 原生沙盒机制，与破解方案不同，不修改微信文件，风险极低。
 
 **微信或 macOS 升级后还能用吗？**  
-可以。多开助手独立于 App 版本运行，升级后无需重新配置。
+可以。多开助手独立于 App 版本运行，升级后仍可继续使用。
 
 **需要关闭 SIP（系统完整性保护）吗？**  
 不需要。多开助手完全依赖 macOS 原生能力，无需修改系统设置。
@@ -101,12 +77,12 @@
 
 ## English
 
-**mac-multi-instance** allows you to run multiple WeChat / WeCom instances simultaneously on macOS, using native sandbox capabilities — no patching, no file modification required. Works after app or system upgrades.
+**wechat-multi (多开助手)** lets you run multiple WeChat / WeCom instances simultaneously on macOS, using native sandbox capabilities — no patching, no file modification required. Works after app or system upgrades.
 
 **Features**: Unlimited instances · Upgrade-proof · Privacy-safe · Free & lightweight (6MB)  
-**Requirements**: macOS 12.0+, WeChat 4.0+  
+**Requirements**: macOS 12.0+, WeChat 4.0+, Intel & Apple Silicon  
 **Download**: [heiweixin.com](https://heiweixin.com)
 
 ---
 
-© 2026 多开助手. 有问题欢迎提 [Issue](https://github.com/hnan/mac-multi-instance/issues)。
+© 2026 多开助手. 有问题欢迎提 [Issue](https://github.com/hnan/wechat-multi/issues)。
