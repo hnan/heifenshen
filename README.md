@@ -9,6 +9,8 @@
 
 [官网](https://heiweixin.com) · [下载最新版](https://www.heiweixin.com) · [问题反馈](https://github.com/hnan/wechat-multi/issues)
 
+![多开助手界面](screenshot.png)
+
 ---
 
 ## 简介
