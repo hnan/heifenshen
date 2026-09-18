@@ -2,7 +2,7 @@
 
 > Mac 下微信、企业微信多开工具。无需破解、不改文件，利用 macOS 原生沙盒能力实现独立实例。
 
-[![最新版本](https://img.shields.io/badge/版本-v1.7.0-blue)](https://github.com/hnan/heifenshen/releases)
+[![最新版本](https://img.shields.io/badge/版本-v1.7.1-blue)](https://github.com/hnan/heifenshen/releases)
 [![macOS](https://img.shields.io/badge/macOS-12.0%2B-brightgreen)](https://github.com/hnan/heifenshen)
 [![免费使用](https://img.shields.io/badge/价格-免费-orange)](https://heiweixin.com)
 [![下载](https://img.shields.io/badge/下载-6MB-lightgrey)](https://www.heiweixin.com)
@@ -42,6 +42,12 @@
 | 安装包大小 | 约 6MB |
 
 ## 更新日志
+
+**v1.7.1** · 2026-09-17
+- 修复微信升级到 4.1.15.19 后，分身无法打开的问题
+- 新建分身时可选择图标颜色，在 Dock 和切换窗口时一眼区分
+- 修复分身图标在 Dock、访达中仍显示原版微信图标的问题
+- 列表中标记为「应用损坏」的分身，点击「修复」即可恢复使用
 
 **v1.7.0** · 2026-09-17
 - 修复微信 4.1.15 下新建分身无法打开的问题
